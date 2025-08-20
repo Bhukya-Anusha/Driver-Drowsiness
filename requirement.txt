@@ -1,0 +1,8 @@
+----------MODULES----------
+
+1.pip install mediapipe
+2.pip install playsound
+3.pip install cv2
+4.pip install numpy
+5.pip install scipy.spatial
+6.pip install  threading
